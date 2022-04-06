@@ -1,3 +1,4 @@
+#Iterations: More Patterns
 #how to sum a list using for in statement
 sum_of_list = 0
 print('\n Before', sum_of_list)
