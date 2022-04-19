@@ -54,3 +54,5 @@ print('Korelasi quantity dengan item_price')
 print(retail_raw[['quantity', 'item_price']].corr())
 
 pandas_profiling.ProfileReport(retail_raw)
+
+
